@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BooksApps</string>
+    <string name="jaforikbal">মোহাম্মদ জাফর ইকবাল</string>
+    <string name="gotolist">Book List</string>
+    <string name="booklist">Book List</string>
+    <string name="title_activity_topu">topu</string>
+    <string name="stroyname">আমি তপু</string>
+    <string name="large_text">
+       আমার সোনার বাংলা, আমি তোমায় ভালোবাসি ।
+চিরদিন তোমার আকাশ, তোমার বাতাস, আমার প্রাণে বাজায় বাঁশি ॥
+
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
